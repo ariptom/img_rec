@@ -1,0 +1,14 @@
+.heading {
+    font-size: large;
+    width: 50%;
+    font-weight: bolder;
+}
+body{
+    color: white;
+    background-color: black;
+}
+#camera{
+    width: 350;
+    height: 300;
+    border:2px dashed aquamarine;
+}
